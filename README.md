@@ -1,6 +1,6 @@
-# Hi there!, I'm Vivek 👋
+# Hi there! I'm Vivek 👋
 
-## About Me
+## About Me!
 
 * 🔭 I’m currently working on Locale, a one stop destination to explore beauty of City Beautiful - Chandigarh
 * 🌱 I’m currently learning Data Structures and Algorithms in Javascript
